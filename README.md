@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/ca63fcd5-5f26-4cdd-b0eb-93d7a4d93b3c" width="40%">
 </p>
 
-## VX BOT
+## 🖥️ VX BOT
 NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서 제공하는 API를 통해 유저들의 정보를 가져와 BOT을 사용하는 DISCORD 채널에서 사용자가 검색한 유저의 전적을 제공하는 BOT 프로그램
 
 <br>
