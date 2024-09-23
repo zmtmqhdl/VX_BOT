@@ -25,6 +25,5 @@
 
 <br>
 
-## 🛠️ 사용 언어 및 지식
-- Python
-- discord
+## 🛠️ 사용 기술
+[![My Skills](https://skillicons.dev/icons?i=discord,flask,python,replit)](https://skillicons.dev)
