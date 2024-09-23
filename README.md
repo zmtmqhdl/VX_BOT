@@ -14,7 +14,7 @@ NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서
   (1) 명령어를 통해 사용자에게 제공되는 전적 이미지  
   <img src="https://github.com/user-attachments/assets/418361da-42c0-4bfb-8977-9d9db2e89a94" width="40%">
 
-<br>
+</br>
 
 - [**BOT_Keep_Alive.py**](https://github.com/zmtmqhdl/VX_BOT/blob/main/BOT_Keep_Alive.py)  
   Replit 환경에서 Flask를 사용해 VX_BOT이 작동되도록 합니다. 이후, Ping 서비스를 제공하는 웹페이지에서 Replit의 URL로 주기적으로 Ping을 보내 BOT이 종료되지 않도록 유지합니다. 이를 통해 BOT을 안정적으로 24시간 실행시킬 수 있습니다.
