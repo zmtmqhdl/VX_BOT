@@ -7,12 +7,13 @@
 
 <br>
 
-## 📁 파일 설명
-- VX_BOT.py
-dsa
+## 📁 파일 설명 및 사용법
+- **VX_BOT.py**  
+  dsa
 
-- BOT_Keep_Alive.py
-sdfasdf
+- **BOT_Keep_Alive.py**  
+  sdfasdf
+  
 <br>
 
 ## 🛠️ 사용 언어 및 지식
