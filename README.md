@@ -8,7 +8,7 @@ NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서
 <br>
 
 ## 🧑‍💻 참여 인원
-|  <center>Header1</center> |
+| <center>Header1</center> |
 |  <img src="https://github.com/user-attachments/assets/9bbe9e79-04b6-44b1-a68c-eae5a049c2ad" width="100" height="100">  |
 | --- | 
 | 김태훈 |
