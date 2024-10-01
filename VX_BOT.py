@@ -4,19 +4,12 @@ from discord import Intents
 import requests
 import json
 
-# 서버가 가지고 이쓴 데이터에 변화를 주기 때문에 post 사용
-# get은 서버에게 리소스만 요청
-
-
-# request
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'}
 base_url = "https://globalstats.vx.nexon.com"
 usn_path = '/api/Search/GetSearchRead/'
 profile_path = '/api/Profile/GetGameProfile/'
 record_path = '/api/Record/GetSeasonRecord/'
 
-
-# discord
 bot = commands.Bot(command_prefix = '/', intents = discord.Intents.all())
  
 
