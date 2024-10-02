@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ VX BOT
-NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서 제공하는 API를 통해 유저들의 정보를 가져와 BOT을 사용하는 DISCORD 채널에서 사용자가 검색한 유저의 전적을 제공하는 BOT 프로그램
+NEXON이 개발 및 운영한 온라인 게임 Veiled Experts웹페이지에서 제공하는 API를 통해 유저들의 정보를 가져와 BOT을 사용하는 DISCORD채널에서 사용자가 검색한 유저의 전적을 제공하는 BOT 프로그램
 
 <br>
 
@@ -21,17 +21,12 @@ NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서
 <br>
 
 ## 📁 프로젝트 상세 설명
-  Veiled Experts 웹페이지에서 제공하는 API를 이용해 유저 프로필과 전적 정보를 가져옵니다. Discord 채널에 BOT이 추가되면, 사용자는 특정 명령어와 닉네임을 입력해 검색합니다. 명령어를 입력하면 필요한 정보와 이미지를 Discord 채널에 이미지 형태로 아래와 같이 출력하여 사용자가 유저 전적을 확인할 수 있도록 합니다.
+  Veiled Experts웹페이지에서 제공하는 API를 이용해 유저 프로필과 전적 정보를 가져옵니다. Discord채널에 BOT이 추가되면, 사용자는 특정 명령어와 닉네임을 입력해 검색합니다. 명령어를 입력하면 필요한 정보와 이미지를 Discord채널에 이미지 형태로 아래와 같이 출력하여 사용자가 유저 전적을 확인할 수 있도록 합니다. 또한 Replit에 파일을 추가 후 Ping서비스를 제공하는 웹페이지를 연동하면 24시간 BOT을 운영할 수 있습니다.
 
   <br>
 
   (1) 명령어를 통해 사용자에게 제공되는 전적 이미지  
-  <img src="https://github.com/user-attachments/assets/418361da-42c0-4bfb-8977-9d9db2e89a94" width="40%">  
-
-<br>
-
-- [**BOT_Keep_Alive.py**](https://github.com/zmtmqhdl/VX_BOT/blob/main/BOT_Keep_Alive.py)  
-  Replit 환경에서 Flask를 사용해 VX_BOT이 작동되도록 합니다. 이후, Ping 서비스를 제공하는 웹페이지에서 Replit의 URL로 주기적으로 Ping을 보내 BOT이 종료되지 않도록 유지합니다. 이를 통해 BOT을 안정적으로 24시간 실행시킬 수 있습니다.
+  <img src="https://github.com/user-attachments/assets/418361da-42c0-4bfb-8977-9d9db2e89a94" width="40%">
 
 <br>
 
