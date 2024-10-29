@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ VX BOT
-NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서 제공하는 API를 통해 유저들의 정보를 가져와 BOT을 사용하는 DISCORD채널에서 사용자가 검색한 유저의 전적을 제공하는 BOT 프로그램
+Nexon이 운영한 온라인 게임 Veild Experts의 유저 전적을 알려주는 BOT Program
 
 <br>
 
@@ -37,12 +37,12 @@ NEXON이 개발 및 운영한 온라인 게임 Veiled Experts 웹페이지에서
 <br>
 
 ## ✏️ 배운 내용
-- REST API에 대해 알게 되었습니다.
-- Discord API를 사용하여 Discord Bot을 개발해 볼 수 있었습니다.
+- REST API에 대해 학습하고 사용해보았습니다.
+- Discord API를 사용하여 Discord Bot 개발 경험을 쌓았습니다.
 - HTTP 요청 처리 및 JSON 데이터 파싱을 배울 수 있었습니다.
 - API 호출 및 데이터 처리 중 발생한 오류를 디버깅하고 해결하는 방법을 배웠습니다.
 
 <br>
 
 ## 🛠️ 사용 기술
-[![My Skills](https://skillicons.dev/icons?i=discord,flask,python,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,flask,js,python,replit)](https://skillicons.dev)
