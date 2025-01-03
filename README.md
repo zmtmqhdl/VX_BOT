@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ VX BOT
-Nexon이 운영한 온라인 게임 Veild Experts의 유저 전적을 알려주는 BOT Program
+Nexon이 운영한 온라인 게임 Veild Experts의 홈페이지에서 크롤링을 통해  받아온 유저 데이터를 사용자들에게 보여주는 Discord 기반의  BOT Program
 
 <br>
 
@@ -21,12 +21,13 @@ Nexon이 운영한 온라인 게임 Veild Experts의 유저 전적을 알려주�
 <br>
 
 ## 📁 프로젝트 상세 설명
-  Veiled Experts 웹페이지에서 제공하는 API를 이용해 유저 프로필과 전적 정보를 가져옵니다. Discord채널에 BOT이 추가되면, 사용자는 특정 명령어와 닉네임을 입력해 검색합니다. 명령어를 입력하면 필요한 정보와 이미지를 Discord채널에 이미지 형태로 아래와 같이 출력하여 사용자가 유저 전적을 확인할 수 있도록 합니다.
+Nexon의 온라인 게임인 Veiled Experts 웹페이지에서 제공하는 데이터를 크롤링하여 유저 프로필과 전적 정보를 가져옵니다. Discord채널에 BOT이 추가되면, 사용자는 특정 명령어와 닉네임을 입력해 검색합니다. 명령어를 입력하면 필요한 정보와 이미지를 Discord에서 이미지 형태로 아래와 같이 출력하여 사용자가 유저 전적을 확인할 수 있도록 합니다.
 
   <br>
 
-  (1) 명령어를 통해 사용자에게 제공되는 전적 이미지  
-  <img src="https://github.com/user-attachments/assets/418361da-42c0-4bfb-8977-9d9db2e89a94" width="40%">
+  (1) 전적 이미지 화면  
+  <img src="https://github.com/user-attachments/assets/418361da-42c0-4bfb-8977-9d9db2e89a94" width="40%">  
+  명령어를 통해 사용자에게 제공되는 전적 이미지 화면입니다.
 
 <br>
 
@@ -37,10 +38,10 @@ Nexon이 운영한 온라인 게임 Veild Experts의 유저 전적을 알려주�
 <br>
 
 ## ✏️ 배운 내용
-- REST API에 대해 학습하고 사용해보았습니다.
-- Discord API를 사용하여 Discord Bot 개발 경험을 쌓았습니다.
-- HTTP 요청 처리 및 JSON 데이터 파싱을 배울 수 있었습니다.
-- API 호출 및 데이터 처리 중 발생한 오류를 디버깅하고 해결하는 방법을 배웠습니다.
+- RESTful API 학습
+- Discord API를 사용하여 Discord Bot 개발
+- HTTP 요청 처리 및 JSON 데이터 파싱 학습
+- API 호출 및 데이터 처리 중 발생한 오류를 디버깅하고 해결하는 방법 학습
 
 <br>
 
